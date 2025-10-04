@@ -6,14 +6,12 @@ public class Metodos {
         return a + b;
     }
 
-    public void print(String s) {
+    public void print(String sim) {
         String s = "Galo mineiro";
         System.out.println(s);
     }
     // throws Exception: indica que o metodo ao ser utilizado pode gerar uma eceção
-    public double dividir(int dividendo, int divisor) throws Exception{
 
-    }
 
     private void metodoPrivado(){}
 
